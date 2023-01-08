@@ -3,4 +3,4 @@ Resolusi 2023 :
 -b
 -c
 -d
--e
+-f
