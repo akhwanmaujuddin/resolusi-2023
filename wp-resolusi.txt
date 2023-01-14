@@ -3,3 +3,6 @@ Resolusi 2023 :
 -c
 -d
 -f
+-h
+-i
+-j
